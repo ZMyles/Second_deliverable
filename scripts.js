@@ -1,16 +1,15 @@
 // Exercise one-----------------------------------------------
 
-/*var num1 = prompt('Enter A Number!');
+var num1 = prompt('Enter A Number!');
 var total = 0;
 
 for (var x = 1; x < num1; x++) {
   total = total + x;
 }
 
-console.log(total); */
+console.log(total); 
 
 // Exercise two --------------------------------------------
-
 
 
 var mark = -1
@@ -57,4 +56,4 @@ if (timeOfDay.toUpperCase() === 'MORNING') {
 } else {
   console.log("if it's evening, not dinner? Stake and potatoes should fill you up!");
 }
-*/
+
